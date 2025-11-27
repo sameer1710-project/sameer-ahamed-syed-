@@ -167,34 +167,41 @@ management.exe
 Enter your choice:
 
 2. Add New Event
-Enter Event ID: 101
-Enter Event Name: Science Fair
-Enter Event Date: 20/12/2024
-Enter Event Venue: Auditorium
-Event added successfully!
+<img width="294" height="149" alt="Screenshot 2025-11-27 102808" src="https://github.com/user-attachments/assets/46151436-6771-4a93-9e1d-e3c44678b40e" />
 
-3. View Events
---- Events List ---
-ID: 101
-Name: Science Fair
-Date: 20/12/2024
-Venue: Auditorium
 
-4. Search Activity
-Enter Activity ID to search: 3
+3. Add New Activity
+<img width="339" height="150" alt="Screenshot 2025-11-27 102819" src="https://github.com/user-attachments/assets/f2b12ef8-715d-4048-8ed0-23fc84cd1cc6" />
 
-Activity Found:
-ID: 3
-Title: Debate Practice
-Time: 4:00 PM
-Facilitator: Mr. Smith
 
-5. Delete Event
-Enter Event ID to delete: 101
-Event deleted successfully!
+4. Event List
+<img width="228" height="172" alt="Screenshot 2025-11-27 102906" src="https://github.com/user-attachments/assets/71c6ba40-c68e-40d9-b31a-664251edbe8b" />
 
-6. Exit
-Exiting program...
+5. Activities List
+
+   <img width="239" height="168" alt="Screenshot 2025-11-27 102933" src="https://github.com/user-attachments/assets/f83128bf-c3d0-4573-af61-df459cdfd818" />
+
+6.Event search
+
+<img width="289" height="188" alt="Screenshot 2025-11-27 102956" src="https://github.com/user-attachments/assets/c3892dfa-f1c0-4ff6-916d-50957ea526bb" />
+
+7. Activity Search
+
+   <img width="325" height="190" alt="Screenshot 2025-11-27 103033" src="https://github.com/user-attachments/assets/ef96e48f-340a-4df1-8472-2e6adfa5e8f7" />
+
+8. Delete Event
+
+<img width="291" height="73" alt="Screenshot 2025-11-27 103200" src="https://github.com/user-attachments/assets/00155a28-ceac-4f89-876d-aa1424c42fbc" />
+
+9. Delete Activity
+
+<img width="318" height="80" alt="Screenshot 2025-11-27 103218" src="https://github.com/user-attachments/assets/aee4e5f8-2399-4173-a369-0c3d07bc7b0f" />
+
+10. Exit Program
+
+<img width="246" height="53" alt="Screenshot 2025-11-27 105739" src="https://github.com/user-attachments/assets/0366e47c-354b-4007-9e15-69db81ac487a" />
+
+
 
 ✔ Documentation Completed
 
